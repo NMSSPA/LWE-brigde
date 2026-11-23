@@ -1,0 +1,12 @@
+{
+  "name": "lwe-bridge",
+  "version": "1.0.0",
+  "description": "24/7 Lightweight Gateway Bridge for Lwe Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
